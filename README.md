@@ -18,6 +18,8 @@ This version is currently compatible with 1.1.2 of ConsoleMode (https://github.c
 
 ## CRysTal Scraper Companion app
 
+[Download CRysTal Fantasy](./build/CRysTal%20Fantasy%20Scraper.exe)
+
 Included is a program that will let you easily scrape your media onto your sd card. Windows only for now. Sorry. I knew the questions "how do I get all of that cool game information to work?" and "how do I convert my videos to the proper format?" were going to be a problem. I tried to make the process as easy as possible to scrape, convert, and compress all files using a simple bridge app to ES-DE. After years of playing around in game frontends, I know ES-DE is the most painless process! Also requires a free Screenscraper account.
 
 ### RPG Mode
