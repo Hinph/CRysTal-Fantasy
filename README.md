@@ -12,7 +12,7 @@ The aim of this project was simply bring the CRT-ready MiSTer frontend experienc
 - Quickly backup profiles and game saves/states to a USB drive
 - Fun RPG theme
 
-- ## Install:
+  ## Install:
 
 This version is currently compatible with 1.1.2 of ConsoleMode (https://github.com/Retro-Remake/ConsoleMode_Distribution/releases/tag/1.1.2). Make sure you have that version installed, download the sh file to your scripts folder, and run it. Don't update ConsoleMode until I release a future version of the mod or it will likely break it. I imagine the upgrade process in the future should be pretty painless... run uninstall CRysTal to revert to standard ConsoleMode, update, run new sh mod.
 
