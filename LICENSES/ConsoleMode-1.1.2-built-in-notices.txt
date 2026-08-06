@@ -1,0 +1,44 @@
+CONSOLE MODE - LICENSES & NOTICES
+Console Mode is open-source software, licensed under the Apache License 2.0 (the
+full text follows below). Portions derived from simplermenu_plus are licensed
+under the Mozilla Public License 2.0 and carry an MPL-2.0 header in their source
+files; the MPL-2.0 text also follows below. The complete corresponding source
+code is available from the Console Mode project repository.
+Source availability: The LGPL-2.1 libraries below (SDL 1.2, SDL_image, SDL_ttf)
+are statically linked; their complete corresponding source is available so you
+can rebuild and relink the binary against modified versions, as provided for by
+LGPL-2.1 section 6. The source of the MPL-2.0 files is likewise available
+(MPL-2.0 section 3.2). Contact: sales@retroremake.co.
+MiSTer FPGA
+  Console Mode runs on MiSTer FPGA, created and maintained by Alexey Melnikov
+  ("Sorgelig"). Support the project: https://www.patreon.com/FPGAMiSTer
+  Console Mode is a separate program: it communicates with the MiSTer main
+  binary (GPL) at arm's length over an IPC channel and neither links nor
+  incorporates its source code.
+Built on
+  simplermenu_plus - acmeplus, alpgarcia (rg35xx-cfw) - MPL-2.0
+    https://github.com/rg35xx-cfw/simplermenu_plus
+  Simplemenu - fgl82 - project heritage
+Libraries (statically linked)
+  SDL 1.2.15 - LGPL-2.1
+  SDL_image 1.2.12, SDL_ttf 2.0.11 - LGPL-2.1
+  SDL_gfx 2.0.26 (Andreas Schiffler) - Zlib
+  FreeType 2.10.4 - dual-licensed FTL or GPL-2.0-or-later; used here under the FTL
+  libpng 1.6.40 - libpng-2.0 (PNG Reference Library License version 2)
+  zlib 1.2.11 - Zlib
+  stb_image / stb_image_write (Sean Barrett) - MIT or Unlicense (public domain)
+  miniz (Rich Geldreich et al.) - MIT
+  minimp3 (lieff) - CC0-1.0  (CD Tester MP3 decoding)
+  Boost 1.83 - Boost Software License 1.0
+Fonts (baked into the binary)
+  Akrobat (SemiBold, Bold) - Fontfabric / Plamen Motev
+  PromptFont - Yukari "Shinmera" Hafner - SIL Open Font License 1.1
+  DejaVu Sans (Bold) - DejaVu Fonts - Bitstream Vera / Arev licenses (CRT "Legible" font)
+Fonts (packaged on the SD card, loaded at runtime)
+  Noto Sans CJK JP - Google - SIL Open Font License 1.1  (optional Chinese /
+  Japanese / Korean title rendering; ConsoleMode/fonts/NotoSansCJK-Regular.otf)
+Data & icons
+  console-logos - Dan Patrick / PRO100BYTE - MIT (compilation; the console
+  wordmark logos are trademarks of their respective owners, used nominatively)
+  PlayStation title database - derived from the No-Intro and Redump datfiles
+The full text of each license referenced above follows.
