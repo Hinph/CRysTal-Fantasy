@@ -4,6 +4,11 @@
 
 The aim of this project was simply bring the CRT-ready MiSTer frontend experience that I wanted to use for myself to life! This functions as a mod to RetroRemake's excellent ConsoleMode frontend.
 
+https://www.youtube.com/watch?v=6oJf4uc_UJc
+
+<img width="2841" height="1971" alt="Screenshot 2026-08-05 150758" src="https://github.com/user-attachments/assets/dd4dacfb-ee2b-48df-9b61-23d124e18a32" />
+
+
 ## Features:
 
 - Interface designed to squeeze as much information and functionality onto a low resolution CRT space as possible
@@ -27,4 +32,4 @@ We all have a massive collection of roms we don't touch. I thought it would be f
 
 ## AI Disclosure
 
-This theme mod was designed by me based on a concept I had when I learned there would be MiSTer frontends. I pitched this concept around and it seemed like a lot of people thought it was a good idea, but the truth is that nobody was ever going to actually make it how I wanted it. I am not a programmer and I don't have the means to hire one for a homebrew project with no financial incentives. I turned to AI to program this theme mod. AI is a very touchy subject, much like politics, and we all have our own beliefs on it. I am not trying to change anybody's beliefs or actions, but I also won't have mine dictated by others. I am disclosing this information so that you can move along if you are opposed to AI. Quite frankly, I think it's pretty cool that somebody with only a basic IT certificate can now see their vision come to life. Perhaps you disagree. Such is life as a person!
+This theme mod was designed by me based on a concept I had when I learned there would be MiSTer frontends. I pitched this concept around and it seemed like some people thought it was a good idea, but the truth is that nobody was ever going to actually make it how I wanted it. I am not a programmer and I don't have the means to hire one for a homebrew project with no financial incentives. I turned to AI to program this theme mod. AI is a very touchy subject, much like politics, and we all have our own beliefs on it. I am not trying to change anybody's beliefs or actions, but I will not have mine dictated by others either. I am disclosing this information so that you can move along if you are opposed to AI. Quite frankly, I think it's pretty cool that somebody with only a basic IT certificate can now see their vision come to life. Perhaps you disagree. Such is life as a person. That's about all I have to say about that as Gump said.
