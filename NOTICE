@@ -1,0 +1,18 @@
+CRysTal Fantasy
+Copyright 2026 Hinph
+
+This product contains a modified version of Console Mode 1.1.2.
+Console Mode 1.1.2 © Retro Remake 2026.
+Original project by Taki Udon / Retro Remake.
+
+Portions of Console Mode derive from simplermenu_plus and are licensed under
+MPL-2.0. The official Console Mode binary states that the remaining Console
+Mode code is licensed under Apache-2.0. All upstream copyright, attribution,
+license and warranty notices must be retained.
+
+CRysTal Fantasy is an unofficial modification and is not affiliated with or
+endorsed by Taki Udon, Retro Remake, MiSTer FPGA or ES-DE.
+
+CRysTal Fantasy modifications are described in MODIFICATIONS.md. Third-party
+components and their licenses are listed in THIRD_PARTY_NOTICES.md. Source and
+relink information is described in SOURCE_AVAILABILITY.md.
