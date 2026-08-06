@@ -1,3 +1,6 @@
+# (Pardon the dust... have to fix a booboo!)
+
+
 # CRysTal Fantasy
 
 **A fully featured classic RPG themed mod to Console Mode on the MiSTer FPGA**
