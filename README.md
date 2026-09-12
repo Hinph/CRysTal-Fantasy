@@ -18,8 +18,9 @@ https://www.youtube.com/watch?v=6oJf4uc_UJc
 - Quickly backup profiles and game saves/states to a USB drive
 - Choose between RPG inspired theme or a more modern UI
 
-<img width="3840" height="2160" alt="widescreen modern" src="https://github.com/user-attachments/assets/449153da-e9a4-4f66-8073-c82c59de29fd" />
-<img width="1010" height="1485" alt="TATE" src="https://github.com/user-attachments/assets/a40f0a7f-b3ae-4efa-8b89-c33ad77fb9fc" />
+<img width="500" height="735" alt="TATE2" src="https://github.com/user-attachments/assets/060ea866-c1c1-45fb-a19c-cc9c7f920247" />
+<img width="700" height="394" alt="widescreen modern" src="https://github.com/user-attachments/assets/d7fdaf64-2ef5-49dc-be7d-6f41c096be51" />
+
 
 
 ## Install:
