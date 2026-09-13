@@ -20,6 +20,8 @@ This file summarizes third-party components identified in the ConsoleMode
 | PromptFont data retained from ConsoleMode | `LICENSES/OFL-1.1.txt` |
 | DejaVu Sans / Bitstream Vera / Arev glyph data retained from ConsoleMode | `LICENSES/DejaVu-Bitstream-Arev.txt` |
 | console-logos compilation identified by upstream | `LICENSES/MIT.txt` |
+| ES-DE (EmulationStation Desktop Edition) used by CRysTal_Fantasy_Scraper.sh | `LICENSES/MIT.txt` |
+| FFmpeg used by CRysTal_Fantasy_Scraper.sh | `LICENSES/LGPL-2.1.txt` |
 
 The exact notice text extracted from official ConsoleMode 1.1.2 is preserved in
 `LICENSES/ConsoleMode-1.1.2-built-in-notices.txt`.
@@ -27,9 +29,9 @@ The exact notice text extracted from official ConsoleMode 1.1.2 is preserved in
 Akrobat font data is retained from the official ConsoleMode 1.1.2 distribution.
 CRysTal Fantasy makes no separate ownership or license claim over that font.
 
-ES-DE and the MiSTer main binary are not redistributed in this repository or
-release. CRysTal Fantasy interoperates with them as separate software.
+The MiSTer main binary is not redistributed in this repository or release. CRysTal Fantasy interoperates with it as separate software. ES-DE and FFmpeg are distributed as bundled dependencies for the included scraper utility.
 
 Custom sound effects, artwork, game names, logos, and other game-derived assets
 are not licensed under Apache-2.0 unless an explicit asset-specific license is
 provided. All rights remain with their respective owners.
+
